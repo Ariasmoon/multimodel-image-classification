@@ -11,4 +11,4 @@ Ce projet propose une **pipeline complète** de classification binaire d’image
 
 L’objectif est de comparer automatiquement les combinaisons « feature + modèle » et de sélectionner la meilleure approche.
 
-> **Collaboration :** projet réalisé en binôme dans le cadre du cours « Introduction à l'apprentissage automatique ».
+ **Collaboration :** projet réalisé en binôme dans le cadre du cours de L3 : « Introduction à l'apprentissage automatique ».
